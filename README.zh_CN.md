@@ -41,7 +41,7 @@ $ npm i egg-socket.io-v4.0 --save
 // {app_root}/config/plugin.js
 exports.io = {
   enable: true,
-  package: "egg-socket.io",
+  package: "egg-socket.io-v4.0",
 };
 ```
 
