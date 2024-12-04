@@ -336,7 +336,7 @@ socket.on("res", (msg) => {
 
 ## 问题 & 建议
 
-请访问 [here](https://github.com/eggjs/egg/issues).
+请访问 [here](https://github.com/lijingxian1991/egg-socket.io-v4.0/issues).
 
 ##
 

@@ -330,7 +330,7 @@ Application will try to connect the redis server when booting.
 
 ## Questions & Suggestions
 
-Please open an issue [here](https://github.com/eggjs/egg/issues).
+Please open an issue [here](https://github.com/lijingxian1991/egg-socket.io-v4.0/issues).
 
 ## License
 

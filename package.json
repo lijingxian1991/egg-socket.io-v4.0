@@ -1,6 +1,6 @@
 {
   "name": "egg-socket.io-v4.0",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "egg plugin for socket.io",
   "eggPlugin": {
     "name": "io",
@@ -72,9 +72,9 @@
     "url": "git+https://github.com/eggjs/egg-socket.io.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/lijingxian1991/egg-socket.io-v4.0/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-socket.io#readme",
+  "homepage": "https://github.com/lijingxian1991/egg-socket.io-v4.0#readme",
   "author": "lijingxian1991",
   "license": "MIT"
 }
